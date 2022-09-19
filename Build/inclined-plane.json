@@ -1,0 +1,16 @@
+{
+"companyName": "escavel",
+"productName": "InclinedPlane",
+"productVersion": "0.1",
+"dataUrl": "inclined-plane.data.unityweb",
+"wasmCodeUrl": "inclined-plane.wasm",
+"wasmFrameworkUrl": "inclined-plane.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
